@@ -1,0 +1,26 @@
+input{
+	border-radius: 4px;
+	width: 350px;
+	height: 25px;
+}
+p{
+	margin-bottom: 6px;
+	font-family: Arial;
+	font-size: 15px;
+
+}
+button{
+	width:350px ;
+	height: 30px;
+	background-color: blue;
+	color: white;
+	text-align: center;
+	border: none;
+	border-radius: 25px;
+	cursor: pointer;
+}
+button:hover{
+	width: 400px;
+	height: 35px;
+	opacity: 0.5;
+}

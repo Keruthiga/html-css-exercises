@@ -1,0 +1,12 @@
+.thumbnail1{
+	width:200px;
+	border-radius: 15px;
+}
+.thumbnail2{
+	width:200px;
+ 	object-position: center;
+}
+.thumbnail3{
+	width:200px;
+	border-radius: 100px;
+}

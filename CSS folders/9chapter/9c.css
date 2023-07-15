@@ -1,0 +1,11 @@
+div{
+	font-family: Arial;
+	display: inline-block;
+	border: solid;
+	padding-top:10px ;
+	padding-bottom: 10px;
+	padding-right: 40px;
+	padding-left: 20px;
+	border-color: rgb(150,150, 150);
+	width: 300px;
+}

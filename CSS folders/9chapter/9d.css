@@ -1,0 +1,16 @@
+.title{
+	font-size: 25px;
+	font-weight: bold;
+	color: white;
+	margin-bottom: 15px;
+	margin-top: 20px;
+}
+.content{
+	color: gray;
+}
+div{
+	width: 400px;
+	font-family: Arial;
+	background-color: black;
+	padding: 10px 20px;
+}

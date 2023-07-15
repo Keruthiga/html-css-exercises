@@ -1,0 +1,41 @@
+div{
+	text-align: center;
+}
+img{
+			width: 200px;
+			margin-bottom: 10px;
+			margin-top: 10px;
+		}
+input{
+			border: none;
+			width: 400px;
+			border-radius: 100px;
+			padding-left:16px ;
+			padding-right: 16px;
+			padding-top: 10px;
+			padding-bottom: 10px;
+			text-align: center;
+			font-size: 16px;
+			box-shadow: 0px 2px 3px dimgray;
+			margin-bottom: 50px;
+		}
+.gs-button
+{
+	border: none;
+	background-color: rgb(245, 245, 245);
+  	font-size: 15px;
+  	padding-top: 12px;
+  	padding-bottom: 12px;
+  	padding-left: 20px;
+  	padding-right: 20px;
+}
+.fs-button{
+	margin-right: 10px;
+	border: none;
+	background-color: rgb(245, 245, 245);
+  	font-size: 15px;
+  	padding-top: 12px;
+  	padding-bottom: 12px;
+  	padding-left: 20px;
+  	padding-right: 20px;
+}

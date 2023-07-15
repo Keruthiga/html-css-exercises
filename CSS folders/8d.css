@@ -1,0 +1,22 @@
+.fs-box,
+.ls-box{
+	display: inline-block;
+	margin-bottom: 10px;
+	margin-right: 5px;
+	width: 90px;
+}
+.email-box{
+	display: block;
+	margin-bottom: 10px;
+	width: 200px;
+}
+button{
+	background-color: blue;
+	color: white;
+	display: block;
+	border: none;
+	width: 210px;
+	border-radius: 10px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}

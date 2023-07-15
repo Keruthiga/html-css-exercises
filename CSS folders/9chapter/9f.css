@@ -1,0 +1,28 @@
+img{
+	width:100px;
+}
+.name{
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+.friends{
+	color: gray;
+	font-size: 13px;
+	margin-bottom: 0px;
+	margin-top: 0px;
+}
+button{
+	background-color: blue;
+	color: white;
+	border: none;
+	font-size: 13px;
+	padding: 5px 10px;
+	border-radius: 4px;
+	font-family: Times New Roman;
+}
+div{
+	font-family: Times New Roman;
+	padding: 10px;
+	display: inline-block;
+	box-shadow: 1px 1px 3px dimgray;
+}
